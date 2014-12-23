@@ -5,9 +5,6 @@ Lynda.com Tutorial: Responsive CSS with Sass and Compass with Ray Villalobos
 
 ## Scaffolding
 -------------------
-
-### Development
-*NOTE: Ignore the `test` and `tmp` folders*
 ````
 ├──_
 │         ├── components
