@@ -1,7 +1,7 @@
 Lynda.com Tutorial: Responsive CSS with Sass and Compass with Ray Villalobos
 ==================
 
-## Date of last revision: December 23, 2014
+## Date of last revision: December 25, 2014
 
 ## Scaffolding
 -------------------
